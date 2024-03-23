@@ -1,0 +1,295 @@
+text,intent
+My internet is not working,internet
+I forgot my password,account
+Can you help me track my order,order
+I want to cancel my subscription,subscription
+I have a billing issue,billing
+I need to update my account information,account
+I want to return my product,order
+My internet speed is too slow,internet
+I received a damaged product,order
+I have a question about my bill,billing
+What is your refund policy?,refund
+I can't access my account,account
+When will my order arrive?,order
+My internet connection is intermittent,internet
+I didn't receive my order,order
+I have a problem with my billing statement,billing
+How do I unsubscribe from your service?,subscription
+Can you help me with my account?,account
+I want to change my shipping address,order
+My internet is down,internet
+I received the wrong item,order
+I was charged twice for my order,billing
+What is your cancellation policy?,subscription
+How do I update my payment information?,account
+My order was never delivered,order
+My internet is too slow,internet
+I need to return an item,order
+I have a question about my account balance,billing
+How do I cancel my subscription?,subscription
+I'm having trouble logging into my account,account
+Where is my package?,order
+My internet is not connecting,internet
+My order was cancelled without my consent,order
+I have a dispute with my bill,billing
+How do I renew my subscription?,subscription
+Can you help me reset my password?,account
+My order is missing an item,order
+My internet connection is down,internet
+I want to cancel my order,order
+I have a question about my payment,billing
+How do I change my subscription?,subscription
+I can't log into my account,account
+My order is delayed,order
+My internet is not stable,internet
+I received the wrong size,order
+I have a problem with my billing information,billing
+How do I update my subscription?,subscription
+My internet is slow,internet
+I can't find my order,order
+I have a question about my account settings,billing
+How do I cancel auto-renewal on my subscription?,subscription
+I forgot my username,account
+When will my order ship?,order
+My internet connection keeps dropping,internet
+I want to add an item to my order,order
+I have a problem with my billing, billing
+How do I change my account information?,account
+Where is my delivery?,order
+I can't connect to the internet,internet
+My order was delivered to the wrong address,order
+I have a dispute with my credit card charge,billing
+How do I update my billing address?,account
+I want to cancel my auto-shipment,subscription
+My order is incomplete,order
+I have a question about my bill payment,billing
+How do I renew my subscription manually?,subscription
+I can't access my account,account
+I want to change my delivery date,order
+My internet is not working properly,internet
+I received a defective product,order
+I have a problem with my billing cycle,billing
+How do I cancel my auto-payment?,subscription
+My order is missing a part,order
+I need help with my billing, billing
+How do I cancel my subscription manually?,subscription
+I forgot my password and username,account
+When will my order be delivered?,order
+My internet connection is slow,internet
+I received the wrong product,order
+I have a question about my monthly bill,billing
+How do I change my billing information?,account
+My order is damaged,order
+I have a problem with my account,billing
+How do I cancel my membership?,subscription
+I can't see my order history,account
+I want to change the delivery address,order
+My internet is not working at all,internet
+I received the wrong color,order
+I have a problem with my payment method,billing
+How do I cancel my recurring subscription?,subscription
+My order is defective,order
+I need to update my billing information,account
+How do I pause my subscription?,subscription
+My internet connection is unstable,internet
+I want to exchange my product,order
+I have a question about my billing history,billing
+I want to return my order,order
+My internet is completely down,internet
+I have a question about my billing statement,billing
+How do I update my subscription preferences?,subscription
+My order is taking too long to arrive,order
+I have a question about my monthly subscription charge,billing
+My internet is not working on my phone,internet
+How do I cancel my order?,order
+I have a billing question regarding my account,billing
+I need help with changing my account settings,account
+Where is my refund?,order
+My internet is not working on my laptop,internet
+I received the wrong size,order
+I have a question about my subscription renewal date,billing
+How do I cancel my monthly billing?,subscription
+I need to update my account information,account
+I want to change my delivery time,order
+My internet speed is too slow,internet
+I received the wrong quantity,order
+I have a question about my subscription cancellation,billing
+How do I change my subscription plan?,subscription
+I want to change the product I ordered,order
+My billing is incorrect, billing
+I need to reset my password,account
+When will my order be shipped?,order
+My internet is not connecting, internet
+I want to add a product to my order,order
+I have a question about my subscription billing history,billing
+How do I cancel my subscription service?,subscription
+My order is missing items,order
+I have a question about my billing cycle date,billing
+How do I update my payment method?,account
+My order was not delivered,order
+I have an issue with my internet connection,internet
+I want to check my order status,order
+I have a question about my billing due date,billing
+How do I cancel my recurring payment?,subscription
+I received a damaged product,order
+I have a question about my billing refund,billing
+How do I upgrade my subscription plan?,subscription
+I want to change my delivery address,order
+My internet is not working on my desktop,internet
+I want to cancel my order and get a refund,order
+I have a question about my billing history,billing
+How do I renew my subscription with a different payment method?,subscription
+My order is delayed,order
+I have a question about my billing invoice,billing
+How do I renew my subscription automatically?,subscription
+I want to change the delivery date,order
+My internet is down,internet
+I want to return a product for a refund,order
+I have a question about my billing statement charges,billing
+How do I change my billing due date?,account
+I received a wrong product,order
+I have a question about my subscription plan features,billing
+How do I cancel my account?,subscription
+My order is lost,order
+I have a question about my billing payment history,billing
+How do I renew my subscription manually with a different payment method?,subscription
+I want to change the product color,order
+My billing address is incorrect, billing
+I need to change my email address,account
+When will my order be delivered?,order
+I have a question about my billing refund status,billing
+How do I cancel my subscription manually with a different payment method?,subscription
+I received the wrong item,order
+I have a question about my subscription upgrade,billing
+How do I change my subscription renewal date?,subscription
+I want to cancel my order and get a refund,order
+My billing information is incorrect, billing
+I need to update my shipping information,account
+My internet is not working on my tablet,internet
+I want to cancel my order and exchange it,order
+My order was never delivered,order
+I have a question about my billing payment plan,billing
+How do I change my account email address?,account
+I want to change the delivery time slot,order
+My internet is not working after a power outage,internet
+I want to cancel my order and get store credit,order
+I have a question about my billing payment options,billing
+How do I cancel my subscription payment?,subscription
+I received a defective product,order
+I have a question about my subscription billing amount,billing
+How do I change my account password?,account
+My order was damaged during shipping,order
+I have a question about my billing payment date,billing
+How do I renew my subscription with a gift card?,subscription
+I want to change the product size,order
+My billing address has changed, billing
+I need to reset my security question,account
+When will my order be ready for pickup?,order
+I have a question about my billing payment confirmation,billing
+How do I renew my subscription manually with a gift card?,subscription
+My order is marked as delivered but I didn't receive it,order
+I have a question about my subscription payment plan features,billing
+How do I cancel my subscription payment automatically?,subscription
+I received the wrong color,order
+I have a question about my subscription plan terms,billing
+How do I change my subscription payment date?,subscription
+I want to cancel my order and get an exchange,order
+My billing information needs to be updated, billing
+I need to change my security question,account
+My internet speed is inconsistent,internet
+I want to cancel my order and get a store credit,order
+I have a question about my billing payment processing,billing
+How do I renew my subscription automatically with a gift card?,subscription
+My order is being returned to sender,order
+I have a question about my subscription payment options,billing
+How do I change my subscription billing date?,subscription
+I want to cancel my order and get a refund to my original payment method,order
+My billing statement has incorrect charges, billing
+I need to change my security answer,account
+When will my order be available for pickup?,order
+I have a question about my billing payment plan terms,billing
+How do I cancel my subscription payment manually?,subscription
+I received the wrong style,order
+I have a question about my subscription plan pricing,billing
+How do I change my subscription billing cycle?,subscription
+I want to cancel my order and exchange it for a different product,order
+My billing information needs to be corrected, billing
+I need to change my security questions,account
+My internet is working intermittently,internet
+I want to cancel my order and get a refund to store credit,order
+I have a question about my billing statement due date,billing
+How do I renew my subscription manually with a promo code?,subscription
+My order is being returned to the warehouse,order
+I have a question about my subscription payment plan terms and conditions,billing
+How do I cancel my subscription payment manually with a promo code?,subscription
+I received the wrong design,order
+I have a question about my subscription plan benefits,billing
+How do I change my subscription billing frequency?,subscription
+I want to cancel my order and get an exchange for a different size,order
+My billing statement has fraudulent charges, billing
+I need to update my security questions,account
+When will my order be shipped out?,order
+I have a question about my billing statement balance,billing
+How do I renew my subscription with a promo code?,subscription
+My order was delivered to the wrong address,order
+I have a question about my billing payment history,billing
+How do I cancel my subscription payment automatically with a promo code?,subscription
+My order is delayed,order
+I have a question about my subscription plan features and benefits,billing
+How do I change my subscription billing plan?,subscription
+I want to cancel my order and get a refund to my original payment method,order
+My billing statement is overdue, billing
+I need to reset my security questions,account
+When will my order be shipped?,order
+I have a question about my billing payment terms,billing
+How do I renew my subscription automatically with a promo code?,subscription
+My order was cancelled but I wasn't refunded,order
+I have a question about my subscription plan options,billing
+How do I change my subscription billing duration?,subscription
+I want to cancel my order and get a refund to my credit card,order
+My billing statement is incorrect, billing
+I need to change my billing information,account
+My internet is down, internet
+I want to cancel my order and get a refund to my store credit,order
+I have a question about my billing payment fees,billing
+How do I renew my subscription manually with a coupon code?,subscription
+My order is lost,order
+I have a question about my subscription plan terms and conditions,billing
+How do I cancel my subscription payment automatically with a coupon code?,subscription
+I received the wrong item,order
+I have a question about my subscription plan duration,billing
+How do I change my subscription billing options?,subscription
+I want to cancel my order and get a refund to my PayPal account,order
+My billing statement is missing, billing
+I need to change my billing address,account
+My internet connection is slow,internet
+I want to cancel my order and get an exchange for a different color,order
+I have a question about my billing payment invoice,billing
+How do I renew my subscription with a coupon code?,subscription
+My order was delivered but it's damaged,order
+I have a question about my subscription plan terms of service,billing
+How do I cancel my subscription payment manually with a coupon code?,subscription
+I want to cancel my order and exchange it for a different style,order
+My billing statement is incorrect due to fraud, billing
+I need to change my billing information to my company's account,account
+My internet is not working properly,internet
+I want to cancel my order and get a refund to my bank account,order
+I have a question about my billing payment receipt,billing
+How do I renew my subscription manually with a discount code?,subscription
+My order is late,order
+I have a question about my subscription plan terms and conditions and pricing,billing
+How do I change my subscription billing term?,subscription
+I want to cancel my order and exchange it for a different design,order
+My billing statement has double charges, billing
+I need to change my billing information to my personal account,account
+My internet service is not stable,internet
+I want to cancel my order and get an exchange for a different product size,order
+I have a question about my billing payment late fees,billing
+How do I renew my subscription automatically with a discount code?,subscription
+My order is missing,order
+I have a question about my subscription plan pricing and benefits,billing
+How do I cancel my subscription payment automatically with a discount code?,subscription
+I received the wrong size,order
+I have a question about my subscription plan features and pricing,billing
+How do I change my subscription billing options and duration?,subscription
